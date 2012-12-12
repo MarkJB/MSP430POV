@@ -1,0 +1,1 @@
+Code from http://everyonelovesleds.blogspot.co.uk/2011/05/standalone-project-basic-pov-example.html for initial testing of circuit.
